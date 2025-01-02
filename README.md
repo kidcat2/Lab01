@@ -40,7 +40,7 @@ Style Enocoder 와 Enhancement Model을 연결하고, 두 모델을 여러가지
 
 ### Dataset
 1. MIT - Adobe5K (Expert A~E)
-2. Adobe Lightroom Prest 1~13
+2. Apply Adobe Lightroom Preset 1~13 (Expert C)
 
 ### Enviroment
 
